@@ -18,7 +18,7 @@ public class Example {
 
 ### Rules for creating constructor
 
-- All constrcutors of a class must have same name as the class in which it is created
+- All construcutors of a class must have same name as the class in which it is created
 - A constructor in java cannot be abstract, final and static
 - Constructors don't have a return type
 
