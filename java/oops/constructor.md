@@ -52,7 +52,7 @@ class Example {
 #### 2. Parameterized Constructor
 
 - it has more than 0 parameters
-- Iused to provode different values to different objects
+- used to provide different values to different objects
 
 #### example
 
