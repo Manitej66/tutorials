@@ -34,7 +34,7 @@ There are 2 types of constructors in java
 * If we don't create a constructor then the compiler itself creates a default constructor
 * If we create atleast one constructor, then the compiler won't do it for us
 
-#### Example
+### Example
 
 ```java
 class Example {
@@ -51,7 +51,7 @@ class Example {
 * It has more than 0 parameters
 * Used to provide different values to different objects
 
-#### Example
+### Example
 
 ```java
 class Example {
