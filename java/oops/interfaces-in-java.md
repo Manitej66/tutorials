@@ -21,7 +21,7 @@
 }
 ```
 
-## Classes implementing interfaces
+## Classes implementing Interfaces
 
 Interfaces contain abstract methods, so the definition isn't allowed inside interfaces. Classes perform the behavior of interfaces. Classes use the keyword `implements` to implement an interface.
 
